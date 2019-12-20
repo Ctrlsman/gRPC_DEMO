@@ -2,8 +2,8 @@ from __future__ import print_function
 
 import grpc
 
-from grpc_test.example import hello_pb2
-from grpc_test.example import hello_pb2_grpc
+from grpc_test.grpc_demo.example import hello_pb2
+from grpc_test.grpc_demo.example import hello_pb2_grpc
 
 
 def run():

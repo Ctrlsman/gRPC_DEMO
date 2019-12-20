@@ -1,1 +1,1 @@
-## 一个基于gRPC的小DEMO
+## 一个基于gRPC和thrift的小DEMO

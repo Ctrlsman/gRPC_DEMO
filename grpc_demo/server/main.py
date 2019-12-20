@@ -3,8 +3,8 @@ import time
 
 import grpc
 
-from grpc_test.example import hello_pb2
-from grpc_test.example import hello_pb2_grpc
+from grpc_test.grpc_demo.example import hello_pb2
+from grpc_test.grpc_demo.example import hello_pb2_grpc
 
 _ONE_DAY_IN_SECONDS = 60 * 60 * 24
 
